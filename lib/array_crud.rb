@@ -67,3 +67,4 @@ end
 
 p update_element_from_index(create_an_array, 0, "fresh bros")
 puts""
+p create_an_array
