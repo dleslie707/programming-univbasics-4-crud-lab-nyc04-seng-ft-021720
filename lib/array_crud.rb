@@ -62,7 +62,7 @@ p retrieve_last_element_from_array(create_an_array)
 puts""
 
 def update_element_from_index(array, index_number, element)
-  array[element]
+  array[index_number] = element 
 end
 
 p update_element_from_index(create_an_array, 0, "fresh bros")
